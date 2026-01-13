@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Music Website</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>My Favorite Music</h1>
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/kJQP7kiw5Fk"
+allowfullscreen></iframe>
+
+<br><br>
+
+<div id="box"></div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
